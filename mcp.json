@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mpc-homeassistant": {
+      "command": "mpc-homeassistant",
+      "env": {}
+    }
+  }
+}
