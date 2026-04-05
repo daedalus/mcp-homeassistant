@@ -1,16 +1,16 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.daedalus/mpc-homeassistant",
+  "name": "io.github.daedalus/mcp-homeassistant",
   "description": "MCP server exposing Home Assistant REST API functionality",
   "repository": {
-    "url": "https://github.com/daedalus/mpc-homeassistant",
+    "url": "https://github.com/daedalus/mcp-homeassistant",
     "source": "github"
   },
   "version": "0.1.0",
   "packages": [
     {
       "registryType": "pypi",
-      "identifier": "mpc-homeassistant",
+      "identifier": "mcp-homeassistant",
       "version": "0.1.0",
       "transport": {
         "type": "stdio"
